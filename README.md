@@ -16,8 +16,8 @@ This project involves web scraping and data analysis of Mars-related information
 - Objective: Scrape weather data from a table and analyze it.
 - Tools Used: Beautiful Soup for HTML parsing, Pandas for data manipulation and analysis.
 - Outcome: Analysis of Mars weather data, including:
-- - Determining the number of Earth days in a Martian year.
-- - Visualizing temperature data over time.
+    - Determining the number of Earth days in a Martian year.
+    - Visualizing temperature data over time.
 
 
 ## Project Structure:
