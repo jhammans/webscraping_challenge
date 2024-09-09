@@ -28,8 +28,8 @@ sqlalchemy-challenge/
 ├── Resources/                   # Data files 
 ├── Starter_Code/     
 ├── ScrapingMars/                # Main project folder
-|└── part_1_mars_news.ipynb      # Jupyter notebook containing climate data analysis for Part 1
-|└── part_2_mars_news.ipynb      # Jupyter notebook containing climate data analysis for Part 1
+|└── part_1_mars_news.ipynb      # Jupyter notebook containing Mars news articles Part 1
+|└── part_2_mars_news.ipynb      # Jupyter notebook containing Mars weather data for Part 2
 └── README.md                    # Project README file
 ```
 
